@@ -48,7 +48,7 @@
 	<div id="zutaten">
 		<body>
 			<div id="image">
-				<img src="http://cdn2.koreanbapsang.com/wp-content/uploads/2010/05/DSC_0797-e1426734660853.jpg" width="535px" height="358" align="center">
+				<img src="http://cdn2.koreanbapsang.com/wp-content/uploads/2010/05/DSC_0797-e1426734660853.jpg" alt="Bulgogi" width="535px" height="358" align="center">
 				<p id="delish">불고기 delish</p>
 			</div>
 			<h1>Hello! I'd like to share this yummy recipe with you</h1>
