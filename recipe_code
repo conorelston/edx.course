@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>A delish Korean recipe: Bulgogi</title>
+		<style type="text/css">
+		body {
+			width: 600px;
+			margin: auto;
+			font-family: Arial sans-serif;
+			color: grey;
+			background-color: #646463;
+		}
+		#zutaten {
+			width: 600;
+			background-color: white;
+			margin: auto;
+			text-align: center;
+			padding: 15px;
+		}
+		h1, h2, h3{
+			font-size: 22px;
+			text-align: center;
+		}
+		p {
+			font-size: 15px;
+		}
+		#tip {
+			color: #964a00;
+			font-size: 12px;
+		}
+		#image {
+		position: relative;
+		width: 100%; /* for IE 6 */
+		}
+		#delish {
+		position: absolute;
+		top: 200px;
+		left: 0;
+		width: 100%;
+		font-size: 40px;
+		color: white;
+		margin: auto;
+		font-weight: bold;
+		}
+		</style>
+	</head>
+	<div id="zutaten">
+		<body>
+			<div id="image">
+				<img src="http://cdn2.koreanbapsang.com/wp-content/uploads/2010/05/DSC_0797-e1426734660853.jpg" width="535px" height="358" align="center">
+				<p id="delish">불고기 delish</p>
+			</div>
+			<h1>Hello! I'd like to share this yummy recipe with you</h1>
+			<p>Bulgogi is a Korean dish that usually consists of grilled marinated beef.</p>
+			<h2>Here's whatcha need for two persons:</h2>
+			<table style="text-align:center;" align="center" border="0" cellspacing="0" cellpadding="0" width="600">
+				<tr>
+					<th>How much?</th>
+					<th>The ingredients</th>
+				</tr>
+				<tr>
+					<td>300-400g</td>
+					<td>Some good beef</td>
+				</tr>
+				<tr>
+					<td>1 piece of</td>
+					<td>Ginger</td>
+				</tr>
+				<tr>
+					<td>2 cloves of</td>
+					<td>garlic</td>
+				</tr>
+				<tr>
+					<td>1 bundle of</td>
+					<td>spring onions</td>
+				</tr>
+				<tr>
+					<td>2 TS of</td>
+					<td>Sesame seeds</td>
+				</tr>
+				<tr>
+					<td>1 or 2</td>
+					<td>red or white onions</td>
+				</tr>
+				<tr>
+					<td>As much</td>
+					<td>rice you want! I used Korean short rice (sticky!)</td>
+				</tr>
+				<tr>
+					<td>Water</td>
+					<td>for the rice (remember: 1 times rice + 2 times water)</td>
+				</tr>
+				<tr>
+					<td>5 TS of</td>
+					<td>any kind of veggie-oil</td>
+				</tr>
+				<tr>
+					<td>75 ml of</td>
+					<td>Soysauce</td>
+				</tr>
+				<tr>
+					<td>2 TS of</td>
+					<td>brown sugar (white does the same job)</td>
+				</tr>
+				<tr>
+					<td>Spices like</td>
+					<td>salt, pepper, chili, gochujang and/or gochugaru</td>
+				</tr>
+			</table>
+			<h3>And here's how you get this yummspirience on the plate:</h3>
+			<p>First, you need the marinade consisting of the most important ingredient: the sweet soysauce. Of course soysauce isn't sweet at first, so you'll need to add the sugar.
+				Now add the other ingredients:
+				<ol>
+					<li>The garlic</li>
+					<li>chili (or mentioned Korean paste gochujang or korean chili flakes gochugaru)</li>
+					<li>grated ginger</li>
+				</ol>
+				Now cut your beef into thin stripes and throw (please don't take this literally, just put it in) them into the marinade you just made. Let it rest for at least an hour, best over night in the fridge!
+			</p>
+			<p>
+				If you are planning to let your beef rest over night, you can still prepare the vegetables for the next day. Cut the onions, the spring onions and any other vegetable you'd really like to find in your Bulgogi (like mushrooms),
+				put the cut ingredients into a bowl, put some clingfilm over and put them back into the fridge.
+			</p>
+			<p>If you decided you absolutely cannot wait longer than an hour (which I can understand) for this amazing yum, start by roasting the onions first, adding the meat with the marinade and let everything become fully cooked.
+			If too much liquid starts to form, just make sure to stirr alot or to drain off. You can now add chili garlic paste if you'd like, add some salt, pepper...Whatever you wish! Don't forget to cook your rice, too!</p>
+		<blockquote id="tip">By the way, originally, Bulgogi is meant to be eaten rolled up into a lettuce leaf. Also, it's a dish that's often served on special events. The word <i>Bulgogi</i> literally means <i>fire meat</i> in Korean, and is derived from the Pyong'an dialect. It refers to marinated meat, cooked using traditional grilling techniques such as gridirons or perforated dome griddles that sit on braziers, unlike deep frying or boiling in water.</blockquote>
+	</div>
+	<br>
+</body>
+</html>
